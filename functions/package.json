@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "stripe": "^8.50.0"
+    "@sendgrid/mail": "^7.1.0",
+    "stripe": "^8.51.0"
   }
 }
